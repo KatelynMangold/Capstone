@@ -3,8 +3,8 @@ const form = document.querySelector('form1');
 const searchResultDiv = document.querySelector('.search-result');
 const container = document.querySelector('.container');
 let searchQuery = '';
-const APP_ID = `7a3badb5`;
-const APP_key = `3d128a14b31e1c19e5c7b97ba59e5722`;
+const APP_ID = ``;
+const APP_key = ``;
 const category = 'packaged-foods';
 
 searchForm.addEventListener('submit', (e) => {
